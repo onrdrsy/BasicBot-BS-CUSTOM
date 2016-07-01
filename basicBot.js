@@ -240,7 +240,7 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+        scriptLink: "https://raw.githubusercontent.com/onrdrsy/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
@@ -251,11 +251,11 @@
             botName: "basicBot",
             language: "english",
             chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+            scriptLink: "https://raw.githubusercontent.com/onrdrsy/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupCap: 10, // 1-200
+            startupVolume: 10, // 0-100
+            startupEmoji: true, // true or false
             autowoot: true,
             autoskip: false,
             smartSkip: true,
@@ -293,7 +293,7 @@
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
             motdEnabled: false,
-            motdInterval: 5,
+            motdInterval: 3,
             motd: "Temporary Message of the Day",
             filterChat: true,
             etaRestriction: false,
@@ -301,9 +301,9 @@
             opLink: null,
             rulesLink: null,
             themeLink: null,
-            fbLink: null,
+            fbLink: "https://fb.com/groups/bilgisayarlariseviyoruz1",
             youtubeLink: null,
-            website: null,
+            website: "https://bilgisayarlariseviyoruz",
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
