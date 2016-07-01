@@ -240,7 +240,7 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://raw.githubusercontent.com/onrdrsy/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/onrdrsy/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "basicBot",
             language: "english",
             chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://raw.githubusercontent.com/onrdrsy/source/master/basicBot.js",
+            scriptLink: "https://rawgit.com/onrdrsy/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 10, // 1-200
             startupVolume: 10, // 0-100
