@@ -30,7 +30,7 @@
         "G\u00f6rd\u00fc\u011f\u00fcm kadar\u0131yla, do\u011fru.",
         "Sen ona ba\u011fl\u0131s\u0131n.",
         "D\u00fczg\u00fcn bir soru sor.",
-        "Outlook iyi degil.",
+        "TY sqer mq.",
         "Kesinlikle b\u00f6yle.",
         "\u015eimdi s\u00f6ylememen gerekli.",
         "\u00c7ok \u015f\u00fcphelisin.",
@@ -40,7 +40,7 @@
         "B\u00fcy\u00fck ihtimalle.",
         "Daha sonra tekrar sorun.",
         "Cevab\u0131m hay\u0131r.",
-        "Outlook iyi.",
+        "Akif benim Bubam.",
         "Bu say\u0131lmaz.",
         "Evet, dogru zamanda.",
         "Definitely not.",
@@ -154,7 +154,7 @@
     "youarenext": "\/me @%%NAME%%, you are DJing after this song.",
     "youaredj": "\/me @%%NAME%%, you are currently DJing.",
     "eta": "\/me @%%NAME%% yaklasik olarak %%TIME%% 1 standina ulasicak.",
-    "facebook": "\/me Facebook sayfamizi ziyaret edin: %%LINK%%",
+    "facebook": "\/me Facebook grubumuzu ziyaret edin: %%LINK%%",
     "starterhelp": "\/me Yeni basladiysaniz bir goz atin: %%LINK%%",
     "roulettejoin": "\/me @%%NAME%% rouletteye katildin! (Cikamk icin sohbete !leave yazin.)",
     "jointime": "\/me [@%%NAMEFROM%%] @%%USERNAME%% yaklasik %%TIME%% odada.",
@@ -208,3 +208,4 @@
     "thorWorthy": "\/me @%%NAME%% you're worthy of the hammer :hammer:, congratulations!",
     "thorNotWorthy": "\/me @%%NAME%% you're not worthy of the hammer."
 }
+
