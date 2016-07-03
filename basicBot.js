@@ -242,15 +242,15 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/onrdrsy/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+        chatLink: "https://rawgit.com/onrdrsy/source/master/lang/tr.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "basicBot",
-            language: "english",
-            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+            language: "turkish",
+            chatLink: "https://rawgit.com/onrdrsy/source/master/lang/tr.json",
             scriptLink: "https://rawgit.com/onrdrsy/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 10, // 1-200
