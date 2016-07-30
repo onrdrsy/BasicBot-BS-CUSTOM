@@ -280,7 +280,7 @@
             usercommandsEnabled: true,
             thorCommand: false,
             thorCooldown: 10,
-            skipPosition: 3,
+            skipPosition: null,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
@@ -321,7 +321,7 @@
             afkList: [],
             mutedUsers: [],
             bannedUsers: [],
-            skippable: true,
+            skippable: false,
             usercommand: true,
             allcommand: true,
             afkInterval: null,
