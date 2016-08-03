@@ -2121,7 +2121,7 @@
             },
 
             englishCommand: {
-                command: 'english',
+                command: 'turkish',
                 rank: 'bouncer',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
@@ -2147,7 +2147,7 @@
                             case 'cs': ch += 'Mluvte prosím anglicky.'; break;
                             case 'sr': ch += 'Молим Вас, говорите енглески.'; break;
                         }
-                        ch += ' English please.';
+                        ch += ' Tükçe lütfen.';
                         API.sendChat(ch);
                     }
                 }
