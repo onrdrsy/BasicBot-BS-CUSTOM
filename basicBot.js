@@ -2147,7 +2147,7 @@
                             case 'cs': ch += 'Mluvte prosím anglicky.'; break;
                             case 'sr': ch += 'Молим Вас, говорите енглески.'; break;
                         }
-                        ch += ' Tükçe lütfen.';
+                        ch += ' Türkçe lütfen.';
                         API.sendChat(ch);
                     }
                 }
