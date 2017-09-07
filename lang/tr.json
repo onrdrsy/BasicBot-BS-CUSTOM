@@ -64,7 +64,7 @@
     "greyuser": "Botu sadece yetkililer calistirabilir.",
     "bouncer": "Bouncer yetkisinde olanlar botu calistirabilir.",
     "online": "\/me %%BOTNAME%% v%%VERSION%% acildi!",
-    "welcome": "\/me Ho sgeldiniz %%NAME%%",
+    "welcome": "\/me Hos geldiniz %%NAME%%",
     "welcomeback": "\/me Tekrar hos geldin, %%NAME%%",
     "songknown": "\/me @%%NAME%%, Actiginiz sarki daha once acildi.",
     "notavailable": "\/me @%%NAME%%, the song you played was not available.",
