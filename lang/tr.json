@@ -155,7 +155,7 @@
     "youaredj": "\/me @%%NAME%%, you are currently DJing.",
     "eta": "\/me @%%NAME%% yaklasik olarak %%TIME%% 1 standina ulasicak.",
     "facebook": "\/me Facebook grubumuzu ziyaret edin: %%LINK%%",
-    "starterhelp": "\/me Yeni basladiysaniz bir goz atin: %%LINK%%",
+    "starterhelp": "\/me Yeni basladiysaniz bir goz atin: https://bsrt.us/plugdjyardim.png",
     "roulettejoin": "\/me @%%NAME%% rouletteye katildin! (Cikamk icin sohbete !leave yazin.)",
     "jointime": "\/me [@%%NAMEFROM%%] @%%USERNAME%% yaklasik %%TIME%% odada.",
     "kickrank": "\/me [@%%NAME%%] sen diger yetkilileri odadan atamazsin.",
