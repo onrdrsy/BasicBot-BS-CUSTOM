@@ -1,3 +1,8 @@
+# Warning
+
+Attention: the data you see here is completely personalized. If you want to use the boat, go to the source [here.](https://github.com/basicBot/source/)
+
+
 # basicBot (source)
 
 [![Slack](https://basicbot.herokuapp.com/badge.svg)](https://basicbot.herokuapp.com/) [![facebook group](https://img.shields.io/badge/facebook-group-3b5998.svg?style=flat)](https://facebook.com/groups/basicBot) [![twitter](https://img.shields.io/twitter/follow/bscbt.svg?style=social)](https://twitter.com/bscbt)
