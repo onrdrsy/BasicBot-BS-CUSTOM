@@ -1,6 +1,6 @@
 # Warning
 
-Attention: the data you see here is completely personalized. If you want to use the boat, go to the source [here.](https://github.com/basicBot/source/)
+Attention: the data you see here is completely personalized. If you want to use the bot, go to the source [here.](https://github.com/basicBot/source/)
 
 
 # basicBot (source)
