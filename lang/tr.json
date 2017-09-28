@@ -174,7 +174,7 @@
     "currentbotname": "\/me Bot name currently set to: %%BOTNAME%%",
     "botnameset": "\/me Bot name now set to: %%BOTNAME%%",
     "addbotwaitlist": "\/me @%%NAME%%, lutfen beni dj listesine eklemeyin.",
-    "move": "\/me [@%%USERNAME%% tasindi.]",
+    "move": "\/me [Bir kişi tasindi.]",
     "mutednotime": "\/me [@%%NAME%%] artik @%%USERNAME%% susturuldu.",
     "mutedmaxtime": "\/me [@%%NAME%%] Sadece %%TIME%% dakika susturabilirsiniz.",
     "mutedtime": "\/me [@%%NAME%%] artik @%%USERNAME%% kullanicisini %%TIME%% dakika susturdu.",
